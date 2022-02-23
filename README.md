@@ -14,12 +14,12 @@
 ## My Stats Card and Top Languages Card
 <!--- GitHub stats card from https://github.com/anuraghazra/github-readme-stats --->
 <a href="https://github.com/vladd12">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vladd12&show_icons=true&hide_border=true&theme=onedark" alt="My GitHub Stats" width="50%"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vladd12&show_icons=true&hide_border=true&theme=cobalt" width="50%"/>
 </a>
 
 <!--- Top langs card from https://github.com/anuraghazra/github-readme-stats --->
 <a href="https://github.com/vladd12">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vladd12&exclude_repo=machine-learning-practice&layout=compact&theme=onedark" width="48%"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vladd12&exclude_repo=machine-learning-practice&layout=compact&theme=cobalt" width="42%"/>
 </a></br>
 
 <!--- GitHub Trophy Widget from https://github.com/ryo-ma/github-profile-trophy --->
