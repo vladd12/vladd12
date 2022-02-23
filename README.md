@@ -6,7 +6,7 @@
 # About Me 👀
 <!--- Typing text from https://github.com/denvercoder1/readme-typing-svg --->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%230CF700&size=15&center=true&vCenter=true&lines=I'm+computer+science+student+from+Russia+%E2%9C%8C%F0%9F%8F%BB;Sometimes+it+happens+%F0%9F%95%B6%EF%B8%8F;But+I+don't+give+up+%F0%9F%92%AA%F0%9F%8F%BB">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%23080A72&size=15&center=true&vCenter=true&lines=I'm+computer+science+student+from+Russia+%E2%9C%8C%F0%9F%8F%BB;Sometimes+it+happens+%F0%9F%95%B6%EF%B8%8F;But+I+don't+give+up+%F0%9F%92%AA%F0%9F%8F%BB">
 </p></br>
 - ⚡ I’m currently working on small antimalware educational project </br>
 - 🤔 I’m currently learning Win API and some strange things in C++ new standarts </br>
@@ -24,11 +24,11 @@
 
 ## My Small GitHub Trophies 💾
 <!--- GitHub Trophy Widget from https://github.com/ryo-ma/github-profile-trophy --->
-[![trophy](https://github-profile-trophy.vercel.app/?username=vladd12&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=vladd12&theme=onedark)](https://github.com/vladd12)
 
 ## My Streak Stats 💥
 <!--- GitHub Streak Stats from https://github.com/DenverCoder1/github-readme-streak-stats --->
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vladd12)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vladd12&theme=onedark)](https://github.com/vladd12)
 
 <!-- Some Emoji:
 👋 ✨ 🔭 🌱 👯 🤔 💬 📫 😄 ⚡ 
