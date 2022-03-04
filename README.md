@@ -32,7 +32,6 @@
 
 ## My Profile Views 👀
 [![](https://komarev.com/ghpvc/?username=vladd12)](https://github.com/vladd12)
-</br> Hmm, so small, a think! 🤣 </br>
 
 <!-- Some Emoji:
 👋 ✨ 🔭 🌱 👯 🤔 💬 📫 😄 ⚡ 
