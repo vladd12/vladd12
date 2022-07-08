@@ -3,7 +3,9 @@
   <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
 </h1></br>
 
-# About Me 😎
+<h1 align="center">
+  About Me 😎
+</h1></br>
 <!--- Typing text from https://github.com/denvercoder1/readme-typing-svg --->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=%23080A72&size=15&center=true&vCenter=true&lines=I'm+computer+science+student+from+Russia+%E2%9C%8C%F0%9F%8F%BB;Sometimes+it+happens+%F0%9F%95%B6%EF%B8%8F;But+I+don't+give+up+%F0%9F%92%AA%F0%9F%8F%BB">
