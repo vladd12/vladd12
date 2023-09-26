@@ -1,7 +1,7 @@
 ## About me
 I'm 23 y.o. computer science student from Russia and C++ software developer. 
 
-## Skills and frameworks:
+## Skills and frameworks
 - CUDA for NVIDIA GPU;
 - Qt for desktop applications with GUI;
 - Boost for some awesome C++ features.
