@@ -1,11 +1,12 @@
-<h1 align="center">
-  Hi there, I'm <a href="https://vk.com/vladd12">vladd12</a>!
-  <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
-</h1></br>
+## About me
+I'm 23 y.o. computer science student from Russia and C++ software developer. 
 
-<h1 align="center">
-  About Me 
-</h1></br>
+## Skills and frameworks:
+- CUDA for NVIDIA GPU;
+- Qt for desktop applications with GUI;
+- Boost for some awesome C++ features.
+
+## Current interests and projects
 - 🤔 I’m currently working on BPF Linux program for accelerating filtering incoming ethernet frames in embedded systems </br>
 
 ## My Stats Card and Top Languages Card 
