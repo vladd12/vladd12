@@ -1,5 +1,5 @@
 ## About me
-I'm 24 y.o. computer science enjoyer (ex student) from Russia and C++ software developer. 
+I'm 25 y.o. computer science enjoyer (ex student) from Russia and C++ software developer. 
 
 ## Skills and frameworks
 - CUDA for NVIDIA GPU;
@@ -7,7 +7,7 @@ I'm 24 y.o. computer science enjoyer (ex student) from Russia and C++ software d
 - Boost for some awesome C++ features.
 
 ## Current interests and projects
-- 🤔 I’m currently working on BPF Linux program for accelerating filtering incoming ethernet frames in embedded systems </br>
+- Go and C/C++ microservices, async non-blocking execution for custom user's tasks </br>
 
 ## My Stats Card and Top Languages Card 
 <!--- GitHub stats card from https://github.com/anuraghazra/github-readme-stats --->
