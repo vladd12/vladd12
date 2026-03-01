@@ -1,5 +1,5 @@
 ## About me
-I'm 25 y.o. computer science enjoyer (ex student) from Russia and C++ software developer. 
+I'm 26 y.o. computer science enjoyer (ex student) from Russia and C++ software developer. 
 
 ## Skills and frameworks
 - CUDA for NVIDIA GPU;
